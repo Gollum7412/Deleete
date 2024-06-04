@@ -19,3 +19,6 @@ h2{
 img{align-items: center;}
 
 div.inline{float: left;}
+body{
+    background-color: black;
+}
