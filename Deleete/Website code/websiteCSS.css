@@ -1,7 +1,7 @@
-h1{
+.heading{
     display: block;
     font-family: Papyrus, fantasy;
-    color: red;
+    color: rgb(32, 243, 180);
     font-style: italic;
     text-align: center
     ;
@@ -9,16 +9,17 @@ h1{
 p{
     text-align: center;
     color: aquamarine;}
-h2{
-    display: block;
-    font-family: Papyrus, fantasy;
-    color: red;
-    font-style: italic;
-    text-align: center;
-}
+
 img{align-items: center;}
 
 div.inline{float: left;}
 body{
     background-color: black;
 }
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 200px;
+  }
